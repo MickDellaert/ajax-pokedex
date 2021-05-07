@@ -24,20 +24,17 @@ body {
     margin-top: 0px;
     width: 520px;
     text-align: center;
+    border-radius: 10px;
 }
 
 .left {
-    background-color: crimson;
+    background-color: #5d0f1f;
     width: 470px;
     height: 700px;
     border-radius: 10px;
     margin-top: 50px;
 }
 
-left-body {
-    height:300px;
-    background-color: #a4707b;
-}
 
 .middle {
     background-color: crimson;
@@ -60,31 +57,34 @@ left-body {
 .screen-left {
     width: 470px;
     height: 600px;
-    background-color: grey;
+    background-color: crimson;
+    border-radius: 10px;
 }
 
 .screen-right {
-    width: 450px;
-    height: 300px;
-    background-color: grey;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    border-radius: 10px;
+    width: 470px;
+    height: 400px;
+    background-color: lightgrey;
 }
 
 .svg-left {
     vertical-align:top;
+    fill: crimson;
 }
 
 .image-container-left {
-    width: 400px;
-    height: 400px;
-    background-color: #9ab3b3;
+    width: 470px;
+    height: 200px;
+    background-color: lightgrey;
+    margin-top: 0px;
 }
 
 .image-container-left-evolve {
     height: 200px;
+    width: 470px;
+    height: 200px;
+    background-color: lightgrey;
+    margin-top: 5px;
 }
 
 
