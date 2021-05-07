@@ -1,0 +1,90 @@
+body {
+    background-color: #9ab3b3;
+}
+
+.row {
+    margin-top: 40px;
+}
+
+.main-container  {
+    margin: auto;
+    width: 980px;
+    height: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: pink;
+}
+
+.left-higher {
+    display: flex;
+    background-color: #5d0f1f;
+    height: 750px;
+    margin-top: 0px;
+    width: 520px;
+    text-align: center;
+}
+
+.left {
+    background-color: crimson;
+    width: 470px;
+    height: 700px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+left-body {
+    height:300px;
+    background-color: #a4707b;
+}
+
+.middle {
+    background-color: crimson;
+    width: 50px;
+    height: 700px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 50px;
+}
+
+.right {
+    background-color: crimson;
+    width: 470px;
+    height: 700px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.screen-left {
+    width: 470px;
+    height: 600px;
+    background-color: grey;
+}
+
+.screen-right {
+    width: 450px;
+    height: 300px;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.svg-left {
+    vertical-align:top;
+}
+
+.image-container-left {
+    width: 400px;
+    height: 400px;
+    background-color: #9ab3b3;
+}
+
+.image-container-left-evolve {
+    height: 200px;
+}
+
+

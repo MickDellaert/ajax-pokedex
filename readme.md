@@ -36,4 +36,4 @@ There are a couple of pokemon that don't play with the normal rules, add code so
 - Eevee has 6 evolutions.
 
 ![Pokedex](pokedex.jpg)
-# ajax-pokedex
+
