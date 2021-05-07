@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 body {
     background-color: #9ab3b3;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
 }
 
 .row {
@@ -39,11 +43,11 @@ body {
 .middle {
     background-color: crimson;
     width: 50px;
-    height: 700px;
+    height: 750px;
     border-radius: 10px;
     margin-left: 5px;
     margin-right: 5px;
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 .right {
@@ -72,6 +76,10 @@ body {
     fill: crimson;
 }
 
+.svg-left {
+    vertical-align:top;
+}
+
 .image-container-left {
     width: 470px;
     height: 200px;
@@ -87,4 +95,10 @@ body {
     margin-top: 5px;
 }
 
+ul {
+    margin-top: 0;
+}
 
+p {
+    margin-top: 0;
+}
