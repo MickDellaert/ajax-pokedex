@@ -1,5 +1,14 @@
 # AJAX Pokédex
 
+Creating a Pokedex with Javascript using fetch API
+* fetching data using asynchronous functions
+* receiving the data in JSON format and displaying selected data
+* manipulate the HTML elements using Javascript 
+
+Unfortunately, during this exercise I had some internet connection issues and lost quite some time. This exercise was remade using PHP, and I managed to make a better result there. I hope to remake this one soon. 
+
+---
+
 ## Practical Information
 
 * Repository: `ajax-pokedex`
